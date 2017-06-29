@@ -32,7 +32,7 @@ body {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  background-color: #062d36;
+  background-color: #700101;
   border-bottom: 3px solid #05242b;
 }
 
@@ -42,7 +42,7 @@ body {
   bottom: 0;
   left: 0;
   padding: 1rem;
-  background-color: #042026;
+  background-color: #700101;
   text-align: center;
   min-height:25px;
 }
