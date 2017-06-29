@@ -1089,7 +1089,7 @@ body {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #839496;
+  color: #000000;
   background-color: #FFFFFF;
 }
 input,
@@ -1218,7 +1218,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #839496;
+  color: #000000;
 }
 h1,
 .h1,
@@ -1495,7 +1495,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #839496;
+  color: #000000;
 }
 blockquote footer:before,
 blockquote small:before,
@@ -2505,7 +2505,7 @@ legend {
   margin-bottom: 20px;
   font-size: 21px;
   line-height: inherit;
-  color: #839496;
+  color: #000000;
   border: 0;
   border-bottom: 1px solid #700101;
 }
@@ -3559,7 +3559,7 @@ tbody.collapse.in {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #839496;
+  color: #000000;
   white-space: nowrap;
 }
 .dropdown-menu > li > a:hover,
@@ -3995,11 +3995,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .nav > li.disabled > a {
-  color: #839496;
+  color: #000000;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #839496;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
   cursor: not-allowed;
@@ -4509,7 +4509,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #839496;
+  color: #000000;
 }
 .navbar-default .navbar-nav > li > a {
   color: rgba(255, 255, 255, 0.5);
@@ -4707,10 +4707,10 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .breadcrumb > li + li:before {
   content: "/\00a0";
   padding: 0 5px;
-  color: #839496;
+  color: #000000;
 }
 .breadcrumb > .active {
-  color: #839496;
+  color: #000000;
 }
 .pagination {
   display: inline-block;
@@ -5026,7 +5026,7 @@ a.thumbnail.active {
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #839496;
+  color: #000000;
 }
 .alert {
   padding: 15px;
@@ -5268,11 +5268,11 @@ a.thumbnail.active {
 }
 a.list-group-item,
 button.list-group-item {
-  color: #839496;
+  color: #000000;
 }
 a.list-group-item .list-group-item-heading,
 button.list-group-item .list-group-item-heading {
-  color: #839496;
+  color: #000000;
 }
 a.list-group-item:hover,
 button.list-group-item:hover,
@@ -5847,14 +5847,14 @@ button.list-group-item-danger.active:focus {
   font-size: 21px;
   font-weight: bold;
   line-height: 1;
-  color: #839496;
+  color: #000000;
   text-shadow: none;
   opacity: 0.2;
   filter: alpha(opacity=20);
 }
 .close:hover,
 .close:focus {
-  color: #839496;
+  color: #000000;
   text-decoration: none;
   cursor: pointer;
   opacity: 0.5;
@@ -6854,5 +6854,5 @@ table .danger th,
   border-color: #2aa198;
 }
 .input-group-addon {
-  color: #839496;
+  color: #000000;
 }
