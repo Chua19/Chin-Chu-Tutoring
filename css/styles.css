@@ -13,13 +13,13 @@ body {
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
-    
+
 }
 
 a {
     cursor: pointer;
     color: rgb(0, 78, 255);
-    
+
 }
 
 a:hover {
@@ -29,7 +29,7 @@ a:hover {
 .link-footer {
     cursor: pointer;
     color: rgb(212, 212, 212) !Important;
-    
+
 }
 
 .link-footer:hover {
@@ -39,7 +39,7 @@ a:hover {
 .link-ondark {
     cursor: pointer;
     color: rgb(232, 232, 232) !important;
-    
+
 }
 
 .link-ondark:hover {
@@ -49,7 +49,7 @@ a:hover {
 .link-post {
     cursor: pointer;
     color: rgb(255, 255, 255) !important;
-    
+
 }
 
 .link-post:hover {
@@ -86,7 +86,7 @@ a:hover {
   color: #ffffff;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu {
-  background-color: #192933;
+  background-color: #700101;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
   color: #eaeaea;
@@ -94,10 +94,10 @@ a:hover {
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
   color: #b9dbf0;
-  background-color: #192933;
+  background-color: #700101;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
-  background-color: #192933;
+  background-color: #700101;
 }
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
@@ -115,14 +115,14 @@ a:hover {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   color: #b9dbf0;
-  background-color: #192933;
+  background-color: #700101;
 }
 .navbar-default .navbar-toggle {
-  border-color: #192933;
+  border-color: #700101;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #192933;
+  background-color: #700101;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #eaeaea;
@@ -150,17 +150,17 @@ a:hover {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #b9dbf0;
-    background-color: #192933;
+    background-color: #700101;
   }
 }
 
 #header {
-    
+
     color: #fff;
     max-width: 100%;
     height: 100vh;
-    
-    
+
+
 }
 
 #header:after {
@@ -174,7 +174,7 @@ a:hover {
     left:0;
     right:0;
     overflow:hidden;
-    
+
   z-index: 1;
 
   display: block;
@@ -203,7 +203,7 @@ a:hover {
     left:0;
     right:0;
     overflow:hidden;
-    
+
   z-index: 1;
 background-image: url(http://michaelvas17.github.io/img/head.jpg);
   display: block;
@@ -240,8 +240,8 @@ background-image: url(http://michaelvas17.github.io/img/head.jpg);
     height: 500px !Important;
     padding: 0;
     display: table;
-    
-    
+
+
 }
 
 .headwrap {
@@ -249,8 +249,8 @@ background-image: url(http://michaelvas17.github.io/img/head.jpg);
     height: 500px !Important;
     padding: 0;
     display: table;
-    
-    
+
+
 }
 
 .headwrap-home .container {
@@ -263,9 +263,9 @@ background-image: url(http://michaelvas17.github.io/img/head.jpg);
     position: relative;
     padding-left: 50px !important;
     color: rgb(255,255,255);
-    
 
-    
+
+
 }
 
 .headwrap .container {
@@ -279,7 +279,7 @@ background-image: url(http://michaelvas17.github.io/img/head.jpg);
     color: rgb(255,255,255);
     box-shadow: 0 0 70px rgba(0, 0, 0, 0.46);
 
-    
+
 }
 
 .title {
@@ -326,7 +326,7 @@ background-image: url(http://michaelvas17.github.io/img/head.jpg);
 section {
     padding-top 50px;
     padding-bottom: 75px;
-    
+
 }
 
 .bg-dark {
@@ -390,12 +390,12 @@ p {
 }
 
 .thumbnail {
-   
+
     background-color: rgba(15, 15, 15, 0.62) !important;
     border-color: transparent;
     border-radius: 0px;
     width: 100%;
-   
+
 }
 
 .project-title {
@@ -477,15 +477,15 @@ p {
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    
+
 }
 
 p {
     color: inherit;
     font-family: inherit;
     font-size: inherit;
-    
-    
+
+
 }
 
 .btn-one {
@@ -497,11 +497,11 @@ p {
   font-family: 'Rubik', sans-serif;
   text-transform: uppercase;
   font-size: 20px;
-  
+
 	-webkit-transition: all ease 0.2s;
 	-moz-transition: all ease 0.2s;
 	transition: all ease 0.2s;
-    
+
 }
 
 .btn-one:hover {
@@ -513,11 +513,11 @@ p {
   font-family: 'Rubik', sans-serif;
   text-transform: uppercase;
   font-size: 20px;
-  
+
 	-webkit-transition: all ease 0.2s;
 	-moz-transition: all ease 0.2s;
 	transition: all ease 0.2s;
-    
+
 }
 
 .cropped-proj-img {
