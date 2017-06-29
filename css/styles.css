@@ -356,13 +356,14 @@ html .home{
 #footer {
    position:absolute;
    left:0px;
-   bottom:0px;
+   bottom:0;
    height:30px;
    width:100%;
    color: rgba(255, 255, 255, 0.38);
   z-index: 99999999999;
     text-align: center;
     font-family: 'Rubik', sans-serif;
+    background-color: #700101;
 }
 
 #post-area {
